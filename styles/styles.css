@@ -1,0 +1,14 @@
+*{
+    background-color: antiquewhite;
+}
+
+.contenedor{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+span{
+    text-transform: uppercase;
+    font-weight: 900;
+}
